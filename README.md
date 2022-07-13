@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JS,REACT and REACT NATIVE**
 
-- 👨‍💻 All of my projects are available at [Coming soon......](Coming soon......)
+- 👨‍💻 All of my projects are available at https://szxro.github.io/Portfolio__1.0/
 
 - 📫 How to reach me **szxrocode@gmail.com**
 
