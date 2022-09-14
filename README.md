@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian Vargas</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-- 🌱 I’m currently learning **Angular,Bootstrap,Typescript**
+- 🌱 I’m currently learning  **C#,EF,.NET**
 
-- 👨‍💻 All of my projects are available at [https://szxro.github.io/Portfolio__1.0/](https://szxro.github.io/Portfolio__1.0/)
+- 👨‍💻 Some of my projects are available at [https://szxro.github.io/Portfolio__1.0/](https://szxro.github.io/Portfolio__1.0/)
 
 - 📫 How to reach me **szxrocode@gmail.com**
 
