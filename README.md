@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **szxrocode@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sebastian-vargas-ba4b88236])
+- 📄 Know about my experiences [https://www.linkedin.com/in/sebastian-vargas-ba4b88236]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
