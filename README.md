@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian Vargas</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-- 🌱 I’m currently learning  **C#,EF,.NET**
+- 🌱 I’m currently improving my  **Net6,Angular** Skills
 
-- 👨‍💻 Some of my projects are available at [https://szxro.github.io/Portfolio__1.0/](https://szxro.github.io/Portfolio__1.0/)
+- 👨‍💻 Some of my projects are available at "I am going to update my portfolio to the new technologies that i learned" 
 
 - 📫 How to reach me **szxrocode@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sebastian-vargas-ba4b88236/](https://www.linkedin.com/in/sebastian-vargas-ba4b88236/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sebastian-vargas-ba4b88236])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
