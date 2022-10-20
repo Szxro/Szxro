@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving my  **Net6,Angular** Skills
 
-- 👨‍💻 Some of my projects are available at "I am going to update my portfolio to the new technologies that i learned" 
+- 👨‍💻 Some of my projects are available at **I am going to update my portfolio to the new technologies that i learned**
 
 - 📫 How to reach me **szxrocode@gmail.com**
 
