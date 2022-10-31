@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Vargas</h1>
 <h3 align="center">A passionate web developer from Dominican Republic</h3>
 
-- 🌱 I’m currently improving **NET6,Angular** Skills
+- 🌱 I’m currently improving **NET,Angular** Skills
 - 💬 Ask me about **Angular or NET 6**
 
 - 📫 How to reach me **szxrocode@gmail.com**
