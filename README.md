@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sebastian Vargas
 ========================================================================================================================================
 
-Full Stack Web Developer
+Web Developer
 ------------------------
 
-I am fullstack developer who love to learn
+I am web developer who love to learn
 
 * 🌍  I'm from in Dominican Republic
 * ✉️  You can contact me at [szxrocode@gmail.com](mailto:szxrocode@gmail.com)
