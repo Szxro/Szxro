@@ -6,9 +6,10 @@ Full Stack Web Developer
 
 I am fullstack developer who love to learn
 
-* 🌍  I'm based in Dominican Republic
+* 🌍  I'm from in Dominican Republic
 * ✉️  You can contact me at [szxrocode@gmail.com](mailto:szxrocode@gmail.com)
-* 🧠  I'm learning Angular and NestJS
+* 🧠  I'm currenly learning Node + TS
+* 📚  I'm Improving my Angular and C# Skills
 
 ### Skills
 
