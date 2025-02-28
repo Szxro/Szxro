@@ -14,7 +14,7 @@ I consider myselft a developer who loves to learn, explore new technologies and 
 ```js
 const skills = {
   frontend: ['HTML', 'CSS','Sass','JavaScript','Typescript','Rxjs' 'Angular'],
-  backend: ['.NET'],
+  backend: ['.NET','SQL'],
   databases: ['SQL Server'],
   tools: ['Git', 'Docker'],
   learning: ['Microservices', 'CI/CD','Nest.Js']
